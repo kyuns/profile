@@ -1,4 +1,13 @@
+#note
+
+## ZOZOのテックカンパニーへの変遷、CTOとしての取り組みを振り返る
+https://note.com/kyuns/n/n00d467243857
+
 # インタビュー
+
+#【CTOインタビュー】元ZOZOテクノロジーズCTOがリユース業界へ！今村氏が見出した、市場と技術の可能性――BuySell Technologies・今村雅幸さん
+https://flxy.jp/article/19652
+
 ## ファッション業界をテクノロジーで変革する企業のCTOに聞く、マネジメントや組織作りで大切なこと
 https://octopass.jp/2768/
 
@@ -13,3 +22,4 @@ https://techford.jp/blog/blog/322/
 
 ## 「70億人のファッションを技術の力で変えていく」。新卒エンジニア採用から見えるZOZOテクノロジーズが大切にする「思い」とは。
 https://pages.supporterz.jp/repporterz_interview_zozotechnologies.html
+
