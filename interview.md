@@ -1,11 +1,11 @@
-#note
+# note
 
 ## ZOZOのテックカンパニーへの変遷、CTOとしての取り組みを振り返る
 https://note.com/kyuns/n/n00d467243857
 
 # インタビュー
 
-#【CTOインタビュー】元ZOZOテクノロジーズCTOがリユース業界へ！今村氏が見出した、市場と技術の可能性――BuySell Technologies・今村雅幸さん
+## 【CTOインタビュー】元ZOZOテクノロジーズCTOがリユース業界へ！今村氏が見出した、市場と技術の可能性――BuySell Technologies・今村雅幸さん
 https://flxy.jp/article/19652
 
 ## ファッション業界をテクノロジーで変革する企業のCTOに聞く、マネジメントや組織作りで大切なこと
