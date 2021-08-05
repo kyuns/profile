@@ -4,9 +4,18 @@
 https://note.com/kyuns/n/n00d467243857
 
 # インタビュー
+## リユース業界のDXを推進、BuySell Technologies CTO今村雅幸氏の新たな挑戦とは
+https://www.tech-street.jp/entry/2021/08/05/120054
+
+## “とりあえず”優秀そうな人を採用、は上手くいかない BuySellとLayerXのCTOが経験の中で得た逆算の発想
+https://logmi.jp/tech/articles/324752
+
 
 ## 【CTOインタビュー】元ZOZOテクノロジーズCTOがリユース業界へ！今村氏が見出した、市場と技術の可能性――BuySell Technologies・今村雅幸さん
 https://flxy.jp/article/19652
+
+## 突撃！隣のCTO　“常識”を疑えるエンジニアが未来には必要だ　株式会社ZOZOテクノロジーズ執行役員 CTO・今村 雅幸さん Vol.8
+https://magazine.techcareer.jp/interview/tonarino_cto/13605/
 
 ## ファッション業界をテクノロジーで変革する企業のCTOに聞く、マネジメントや組織作りで大切なこと
 https://octopass.jp/2768/
