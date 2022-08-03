@@ -4,6 +4,9 @@
 https://note.com/kyuns/n/n00d467243857
 
 # インタビュー
+## 「リユースプラットフォーム」って、何？ 今村CTOの1年振り返りとバイセルの未来
+https://note.com/buysell/n/n3341d35efc2f?magazine_key=mbcda985b20f7
+
 ## リユース業界のDXを推進、BuySell Technologies CTO今村雅幸氏の新たな挑戦とは
 https://www.tech-street.jp/entry/2021/08/05/120054
 
